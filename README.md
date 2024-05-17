@@ -2,7 +2,7 @@
 
 ## Hi there! 
 <a href="https://github.com/juliasvilar">
-  <img src="https://i.pinimg.com/originals/7d/92/bf/7d92bfb33bde0da61704e6855bb09645.gif" alt="Kitten GIF" height="30">
+  <img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" alt="Kitten GIF" height="30">
 </a>
 
 Bem-vindos à minha jornada de desenvolvimento!
