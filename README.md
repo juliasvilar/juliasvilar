@@ -1,16 +1,10 @@
 <div align="center">  
 
 ## Hi there! 
-<table>
-  <tr>
-    <td><h2>Hi there!</h2></td>
-    <td>
-      <a href="https://github.com/juliasvilar">
-        <img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" alt="Kitten GIF" height="30">
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/juliasvilar">
+## Hi there! <a href="https://github.com/juliasvilar">
+  <img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" alt="Kitten GIF" height="60">
+</a>
 
 Bem-vindos à minha jornada de desenvolvimento!
 
