@@ -1,6 +1,10 @@
 <div align="center">  
 
-## Hi there! 👋
+## Hi there! 
+<a href="https://github.com/juliasvilar">
+  <img src="https://i.pinimg.com/originals/7d/92/bf/7d92bfb33bde0da61704e6855bb09645.gif" alt="Kitten GIF" height="30">
+</a>
+
 Bem-vindos à minha jornada de desenvolvimento!
 
 
