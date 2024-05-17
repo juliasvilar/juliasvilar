@@ -1,7 +1,6 @@
 <div align="center">  
 
-## Hi there! 
-<a href="https://github.com/juliasvilar">
+## Hi there! <a href="https://github.com/juliasvilar">
   <img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" alt="Kitten GIF" height="60">
 </a>
 
